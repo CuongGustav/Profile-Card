@@ -11,9 +11,7 @@
 **Easy Customization:** Simple to modify and integrate.  
 **Clean Code:** Well-organized and commented.  
 
-### [Link add Swiper] <**https://swiperjs.com/get-started**>
+### [Link add Swiper] https://swiperjs.com/get-started
 ### [Link Demo 😄](https://cuonggustav.github.io/Profile_Card/)
-
-<****>
 
 ![example](./assets/imgs/anh.png)
